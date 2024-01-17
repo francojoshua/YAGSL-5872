@@ -1,5 +1,5 @@
 {
-  "wheelDiameter": 3,
+  "wheelDiameter": 4.5,
   "gearRatio": {
     "drive": 4.714285714285714,
     "angle": 1
@@ -9,8 +9,8 @@
     "angle": 20
   },
   "rampRate": {
-    "drive": 0.25,
-    "angle": 0.25
+    "drive": 0.0,
+    "angle": 0.0
   },
   "encoderPulsePerRotation": {
     "drive": 1,
